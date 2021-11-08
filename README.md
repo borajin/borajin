@@ -2,10 +2,10 @@
   Hi, I’m <b>Bora Jin</b> 😈 <br />
   I want to be a <b>back-end web developer</b> 👨‍💻
 </p>
-
-
-
+   
   
+-----------------
+   
    
 🌱  I’m currently learning...  
   
