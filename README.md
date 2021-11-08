@@ -7,7 +7,7 @@
    
 
 -----------------   
-- Tech Blog : https://anywaydevlog.tistory.com/   
+- Blog : https://anywaydevlog.tistory.com/   
 - Email : borajin.soft@gmail.com    
   
 ![borajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=borajin&show_icons=true&theme=synthwave). 
