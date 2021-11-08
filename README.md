@@ -1,4 +1,4 @@
-<img src="https://mcdn.wallpapersafari.com/medium/76/88/YQoDd9.png" width="100%" height="100">
+<img src="https://mcdn.wallpapersafari.com/medium/30/75/XLF2ND.jpg" width="100%" height="100">
 <p align="center">
   Hi, I’m <b>Bora Jin</b> 😈 <br />
   I want to be a <b>back-end web developer</b> 👨‍💻 
