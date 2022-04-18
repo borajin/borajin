@@ -34,5 +34,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borajin&show_icons=true&locale=en&layout=compact" alt="borajin" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borajin&show_icons=true&locale=en" alt="borajin" /></p>
