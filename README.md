@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [notYetPortfolio.com](notYetPortfolio.com)
 
-- 📝 I regularly write articles on [notYetBlog.com](notYetBlog.com)
+- 📝 I regularly write articles on [https://anywaydevlog.tistory.com/](dev blog)
 
 - 📫 How to reach me **borajin.soft@gmail.com**
 
