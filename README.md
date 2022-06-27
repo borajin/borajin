@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bora Jin</h1>
 <h3 align="center">A thinking backend developer</h3>
 
-
-- 👨‍💻 All of my projects are available at [notYetPortfolio.com](notYetPortfolio.com)
-
-- 📝 I regularly write articles on [https://borajin.github.io/](https://borajin.github.io/)
-
-- 📄 Know about my experiences [notYetExpericences](notYetExpericences)
+- 📝 I regularly write articles on [https://anywaydevlog.tistory.com/](https://anywaydevlog.tistory.com/)
 
 
 <h3 align="left">Connect with me:</h3>
