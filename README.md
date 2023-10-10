@@ -1,5 +1,3 @@
-<h1 align="center">안녕하세요 👋, 진보라 입니다.</h1>
-<h3 align="center">백엔드 개발자를 목표로 노력 중입니다.</h3>
 
 - 📝 blog  | [https://anywaydevlog.tistory.com/](https://anywaydevlog.tistory.com/)
 - ✉️ email | borajin.soft@gmail.com
